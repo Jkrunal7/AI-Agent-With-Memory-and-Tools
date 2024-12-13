@@ -1,4 +1,4 @@
-# AI-Agent-With-Memory-and-Tools
+# AI Agent With Memory and Tools
 
 This project demonstrates an AI-powered agent equipped with memory and tool integration, built using the LangChain framework and Mistral AI. The agent leverages the following tools:
 
